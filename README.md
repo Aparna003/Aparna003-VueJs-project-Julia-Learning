@@ -2,7 +2,7 @@
 
 ## To Vist the site [click here](https://julia-enigma.web.app/)
 
-### Lighthose benchmark 
+### Lighthouse benchmark 
 ![Alt text](extras/Lighthouse.png?raw=true "LightHouse")
 
 ### GTMetrics benchmark 
